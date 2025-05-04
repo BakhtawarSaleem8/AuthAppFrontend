@@ -4,3 +4,4 @@ this is the news hub where user can see latest news post about sports , politics
 
 
 ![image alt](https://github.com/BakhtawarSaleem8/AuthAppFrontend/blob/ac673978a82bffafb700e4e3698de7365a684f14/sign-in.png)
+![image alt](https://github.com/BakhtawarSaleem8/AuthAppFrontend/blob/ab23c4530ecdb5e89952c75fb922fa81200aa885/home-page.png)
