@@ -3,3 +3,4 @@ in this app an admin will have authorization to create , update , delete posts a
 this is the news hub where user can see latest news post about sports , politics , finance and stocks and only admin can create those posts , user can only like and comment on the post 
 
 
+![image alt](https://github.com/BakhtawarSaleem8/AuthAppFrontend/blob/ac673978a82bffafb700e4e3698de7365a684f14/sign-in.png)
