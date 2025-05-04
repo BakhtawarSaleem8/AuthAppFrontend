@@ -1,0 +1,31 @@
+.react-toast-container {
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 20px;
+    left: 45%;
+    padding: 15px;
+    border-radius: 5px;
+    z-index: 1000;
+    transform:translateX(-50%) translateY(-500px);
+    transition: 0.4s;
+    box-sizing: border-box; 
+    width: max-content; 
+    max-width: 90%; 
+}
+.react-toast-container.show {
+    transform:translateX(-50%) translateY(0px);
+}
+
+.react-toast-container.success{
+    background-color: rgb(16, 177, 16);
+}
+.react-toast-container.error{
+    background-color: rgb(216, 31, 31);
+}
+.react-toast-container.warning{
+    background-color: rgb(214, 138, 25);
+}
+.react-toast-container.info{
+    background-color: rgb(43, 97, 216);
+}

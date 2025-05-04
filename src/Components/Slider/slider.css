@@ -1,0 +1,25 @@
+.scroll-snap-x-mandatory {
+    scroll-snap-type: x mandatory;
+    scrollbar-width: 0px;
+    scrollbar-width: hidden;
+
+  }
+  
+  .scroll-snap-align-start {
+    scroll-snap-align: start;
+  }
+  
+  .scroll-smooth {
+    scroll-behavior: smooth;
+  }
+
+  /* Hide scrollbar for Chrome, Safari, and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge, and Firefox */
+  .hide-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
