@@ -1,4 +1,6 @@
 # AuthAppFrontend
+**auth app backend **
+https://github.com/BakhtawarSaleem8/AuthenticationAppBackend
 in this app an admin will have authorization to create , update , delete posts and categories and user can only read post and can like and comment the post and share externally 
 this is the news hub where user can see latest news post about sports , politics , finance and stocks and only admin can create those posts , user can only like and comment on the post 
 Project Summary: React Frontend for User Authentication App
